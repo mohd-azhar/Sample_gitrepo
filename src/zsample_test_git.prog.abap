@@ -9,3 +9,5 @@
 REPORT ZSAMPLE_TEST_GIT.
 
 Write: 'Hello World-First git program'.
+
+WRITE: 'ABC-123'.
